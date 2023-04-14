@@ -1,5 +1,6 @@
 from django.contrib import admin
 from .models import Post, Group
+#https://postimg.cc/GTDZ1xkd
 
 
 class PostAdmin(admin.ModelAdmin):
